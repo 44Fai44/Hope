@@ -1,3 +1,5 @@
 print("Hello Fai!")
 
-Print("Hello Git!")
+print("Hello Git!")
+
+print("Hello CSC304!")
